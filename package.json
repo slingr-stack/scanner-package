@@ -17,8 +17,8 @@
         },
         {
             "type": "uiService",
-            "namespace": "scanner",
-            "path": "/uiServices/scanner"
+            "namespace": "scanNer",
+            "path": "/uiServices/scanNer"
         }
     ]
 }
