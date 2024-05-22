@@ -1,0 +1,24 @@
+{
+    "name": "scanner",
+    "label": "Scanner Package",
+    "dependencies": [],
+    "configuration": [],
+    "events": [
+        {
+            "label": "Code Succesfully Scanned",
+            "name": "codeSuccesfullyScanned"
+        }
+    ],
+    "metadata": [
+        {
+            "type": "script",
+            "namespace": "functions",
+            "path": "/scripts/functions.js"
+        },
+        {
+            "type": "uiService",
+            "namespace": "scanner",
+            "path": "/uiServices/scanner"
+        }
+    ]
+}
