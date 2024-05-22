@@ -22,7 +22,7 @@ This package allows your SLINGR application to scan QR and barcodes.
 ## QuickStart
 
 ```js
-let id = pkg.scanner.functions.openScanner();
+pkg.scanner.functions.openScanner();
 ```
 
 ## UI Service
