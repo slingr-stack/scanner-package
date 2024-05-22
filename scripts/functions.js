@@ -7,7 +7,6 @@ exports.openScanner = function () {
     sys.ui.sendMessage({
         scope: 'uiService:scanner.scanner',
         name: 'openScanner',
-        target: 'caller',
         config: {
             formats: ['code_128','qr_code'],
             closeAfterCodeScanned: true
