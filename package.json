@@ -1,6 +1,6 @@
 {
     "name": "scanner",
-    "label": "Scanner Package",
+    "label": "Scanner",
     "dependencies": [],
     "configuration": [],
     "events": [
